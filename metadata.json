@@ -1,0 +1,8 @@
+
+{
+  "name": "Magic Morphing Birthday Particles",
+  "description": "An interactive Three.js experience where a neon particle cake morphs into Chinese birthday wishes using real-time canvas pixel sampling and bloom post-processing. Supports blow-sensing via microphone.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
