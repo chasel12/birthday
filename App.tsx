@@ -12,7 +12,7 @@ const BACKGROUND_PARTICLES = 20000;
 const TOTAL_PARTICLES = CORE_PARTICLES + BACKGROUND_PARTICLES;
 const BLOW_THRESHOLD = 45; 
 // 在此处替换您的 MP3 文件链接
-const BGM_URL = 'public/audio/bgm.MP3'; 
+const BGM_URL = '/public/audio/bgm.MP3'; 
 
 const App: React.FC = () => {
   const containerRef = useRef<HTMLDivElement>(null);
